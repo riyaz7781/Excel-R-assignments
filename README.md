@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riyaz7781
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in Data Analysis and Machine Learning.
 - 🌱 I’m currently learning to make projects on Data Science
 - 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects.
 - 📫 Find me on LinkedIn :https://www.linkedin.com/in/patan-riyaz-04a552183
