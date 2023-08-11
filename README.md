@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riyaz7781
+- 👋 Hi, I’m @riyazpatan
 - 👀 I’m interested in Data Analysis and Machine Learning.
 - 🌱 I’m currently learning to make projects on Data Science
 - 💞️ I’m looking to collaborate on Data Analytics and Machine Learning Projects.
